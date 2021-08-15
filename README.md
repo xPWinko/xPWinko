@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @xPWinko
-- 👀 I’m interested in ladies, games, music and coding
-- 🌱 I’m currently learning C++ and then hopefully Swift
+- 👋 Hi, I’m @xPWinko aka Krystian
+- 👀 I’m interested in games, music and coding
+- 🌱 I’m currently learning HTML, CSS and hopefully soon JavaScript.
 - 💞️ I’m looking to collaborate on idk anything just to get some experience. Preferably something relatiely easy to get into.
 - 📫 How to reach me just pop msg here on github. 
 
